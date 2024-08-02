@@ -1,0 +1,14 @@
+.venv/
+venv/
+misc/
+# pycaret/
+*test*
+todo
+logs.log
+.env/
+__pycache__/
+*cache*/
+__pycache__/
+est.py
+.env
+output/
