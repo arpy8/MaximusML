@@ -75,18 +75,19 @@ Welcome to MaximusML! This application provides a seamless experience for users 
 
 ## Project Structure
 
-├── static/               # Public files (Data, Models, etc.) <br>
-│   ├── data/             # Sample datasets <br>
-│   └── images/           # Images for the web interface <br>
-├── pycaret/              # Slightly tweaked version of pycaret <br>
-├── main.py               # Main application file <br>
-├── user_auth/            # User authentication and registration <br>
-├── utils.py              # Utility functions <br>
-├── train_model.py        # Model training and tuning <br>
-├── Dockerfile            # Docker file for deployment <br>
-├── requirements.txt      # List of required Python packages <br>
-└── sections.py           # Contains the three sections for the web interface <br>
-
+```
+├── static/               # Public files (Data, Models, etc.)
+│   ├── data/             # Sample datasets
+│   └── images/           # Images for the web interface
+├── pycaret/              # Slightly tweaked version of pycaret
+├── main.py               # Main application file
+├── user_auth/            # User authentication and registration
+├── utils.py              # Utility functions
+├── train_model.py        # Model training and tuning
+├── Dockerfile            # Docker file for deployment
+├── requirements.txt      # List of required Python packages
+└── sections.py           # Contains the three sections for the web interface
+```
 
 ## Contributing
 
