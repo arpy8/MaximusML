@@ -97,6 +97,12 @@ We welcome contributions! Please fork the repository and submit pull requests fo
 
 This project is licensed under the MIT License.
 
+## Team Members
+
+- [@Arpit Sengar](https://github.com/arpy8)
+- [@Lay Sheth](https://github.com/cloaky233)
+- [@Rishav Raj Sinha](https://github.com/Rishav-Raj-Sinha)
+
 ## Contact
 
 For any questions or suggestions, please contact [arpitsengar99@gmail.com].
