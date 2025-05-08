@@ -28,8 +28,8 @@ Welcome to MaximusML! This application provides a seamless experience for users 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/arpy8/PreProd-Corp---Buildathon-2024---Gyatt-Maximus.git
-   cd PreProd-Corp---Buildathon-2024---Gyatt-Maximus
+   git clone https://github.com/arpy8/MaximusML.git
+   cd MaximusML
    ```
 
 2. **Install Dependencies**
